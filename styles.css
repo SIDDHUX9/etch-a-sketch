@@ -6,6 +6,7 @@ h1 {
 body {
     align-items: center;
     text-align: center;
+    background-color: rgb(76, 91, 91);
 }
 
 #container {
@@ -17,6 +18,7 @@ body {
     justify-content: center;
     margin: 0 auto;
     padding: 0;
+    background-color: white;
 }
 
 #blocksize {
